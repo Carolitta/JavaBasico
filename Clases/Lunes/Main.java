@@ -7,7 +7,7 @@ public class Main{
 		//p1.respirar();//metodo del objeto p1 de la clase persona
 
 		p1.setEdad(20);
-		p1.setNombre("CHRIS");
+		p1.setNombre("Carol");
 
 		//p1.edad=25 mala practica
 		System.out.println(Persona.getConta());
